@@ -1,6 +1,6 @@
 ### Hi, I'm <a href="https://www.ittid.io">ittid</a> 🖖💻
 
-I'm a Web Developer Student [@ibn-zohr University](https://www.uiz.ac.ma/) at Morocco, pursuing a Bachelor's degree in biology Science, who is passionate about Linux, Php, and open source :octocat:. I love to learn as possible as i can.
+I'm a Web Developer Student [@ibn-zohr University](https://www.uiz.ac.ma/) at Morocco, pursuing a Bachelor's degree in biology Science, who is passionate about Linux, PHP, and open source :octocat:. I love to learn as possible as i can.
 
 [![twitter badge](https://img.shields.io/badge/-@ittid-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ittidcode)
 
@@ -14,7 +14,11 @@ I'm a Web Developer Student [@ibn-zohr University](https://www.uiz.ac.ma/) at Mo
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 ![SASS](https://img.shields.io/badge/-SASS-fff?&logo=SASS)
 ![Git](https://img.shields.io/badge/-GIT-fff?&logo=GIT)
-![JSON](https://img.shields.io/badge/-JSON%20Api-fff?&logo=json)
+![JSON](https://img.shields.io/badge/-JSON-fff?&logo=json)
 ![NPM](https://img.shields.io/badge/-npm-fff?&logo=npm)
 
 ![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP)
+
+### Operating System :
+
+![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux)
