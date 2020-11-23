@@ -3,7 +3,7 @@
 I'm a Web Developer Student [@ibn-zohr University](https://www.uiz.ac.ma/) at Morocco, pursuing a Bachelor's degree in biology Science, who is passionate about Linux, PHP, and open source :octocat:. I love to learn as possible as i can.
 
 [![twitter badge](https://img.shields.io/badge/-@ittid-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ittidcode)
-[![facebook badge](https://img.shields.io/badge/-aHnaineAbdou-%230177B5?style=flat&logo=facebook&logoColor=white)](https://www.fb.com/in/aHnaineAbdou)
+[![facebook badge](https://img.shields.io/badge/-aHnaineAbdou-%230177B5?style=flat&logo=facebook&logoColor=white)](https://www.fb.com/aHnaineAbdou)
 [![Instagram](https://img.shields.io/badge/-samadilii-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/samadilii/)
 
 ### Languages and Technologies:
