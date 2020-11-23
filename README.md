@@ -1,6 +1,6 @@
-### Hi, I'm [ittid] 🖖💻
+### Hi, I'm <a href="https://www.ittid.io">ittid</a> 🖖💻
 
-I'm a Web Developer Student @IbenZohr University at Morocco, pursuing a Bachelor's degree in biology Science, who is passionate about Linux, Php, and open source :octocat:. I love to learn as possible as i can.
+I'm a Web Developer Student [@ibn-zohr University](https://www.uiz.ac.ma/) at Morocco, pursuing a Bachelor's degree in biology Science, who is passionate about Linux, Php, and open source :octocat:. I love to learn as possible as i can.
 
 ### Languages and Tools:
 
