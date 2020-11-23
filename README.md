@@ -23,3 +23,12 @@ I'm a Web Developer Student [@ibn-zohr University](https://www.uiz.ac.ma/) at Mo
 
 ![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux)
+
+ ```javascript
+ 
+ while (alive) {
+   eat ()
+   sleep ()
+   code ()
+ }
+ ```
