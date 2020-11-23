@@ -23,3 +23,4 @@ I'm a Web Developer Student [@ibn-zohr University](https://www.uiz.ac.ma/) at Mo
 ### Operating System :
 
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux)
+![Windows](https://img.shields.io/badge/-Windows-fff?&logo=Windows)
