@@ -9,14 +9,17 @@ I'm a Web Developer Student [@ibn-zohr University](https://www.uiz.ac.ma/) at Mo
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![VUE](https://img.shields.io/badge/-VUE-fff?&logo=Vue.js&logoColor=green)
 ![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
 
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 ![SASS](https://img.shields.io/badge/-SASS-fff?&logo=SASS)
 ![Git](https://img.shields.io/badge/-GIT-fff?&logo=GIT)
 ![JSON](https://img.shields.io/badge/-JSON%20Api-fff?&logo=json)
+![NPM](https://img.shields.io/badge/-npm-fff?&logo=npm)
 
 ![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP)
+
 
 
 
