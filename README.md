@@ -1,6 +1,6 @@
 ### Hi, I'm <a href="https://www.ittid.io">ittid</a> 🖖💻
 
-I'm a Web Developer Student [@ibn-zohr University](https://www.uiz.ac.ma/) at Morocco, pursuing a Bachelor's degree in biology Science, who is passionate about Linux, PHP, and open source :octocat:. I love to learn as possible as i can.
+I'm a Digital Product Designer and Front-End Developer, Student [@ibn-zohr University](https://www.uiz.ac.ma/) at Morocco, pursuing a Bachelor's degree in biology Science, who is passionate about Linux, PHP, and open source :octocat:. I enjoy working on large scale Product Design and Front End Projects
 
 #### 👇 Find me in other areas of the web
 
