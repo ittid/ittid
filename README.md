@@ -22,8 +22,4 @@ I'm a Web Developer Student [@ibn-zohr University](https://www.uiz.ac.ma/) at Mo
 ![NPM](https://img.shields.io/badge/-npm-fff?&logo=npm)
 
 ![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP)
-
-### Operating System :
-
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux)
-![Windows](https://img.shields.io/badge/-Windows-fff?&logo=Windows)
