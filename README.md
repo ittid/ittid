@@ -6,6 +6,21 @@ I'm a Web Developer Student [@ibn-zohr University](https://www.uiz.ac.ma/) at Mo
 
 ### Languages and Tools:
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
+![VUE](https://img.shields.io/badge/-VUE-fff?&logo=Vue.js&logoColor=green)
+![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
+
+![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
+![SASS](https://img.shields.io/badge/-SASS-fff?&logo=SASS)
+![Git](https://img.shields.io/badge/-GIT-fff?&logo=GIT)
+![JSON](https://img.shields.io/badge/-JSON%20Api-fff?&logo=json)
+
+![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP)
+
+
+
+
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
