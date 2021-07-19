@@ -20,6 +20,7 @@ I'm a Digital Product Designer and Front-End Developer, Student [@ibn-zohr Unive
 ![Git](https://img.shields.io/badge/-GIT-fff?&logo=GIT)
 ![JSON](https://img.shields.io/badge/-JSON-fff?&logo=json)
 ![NPM](https://img.shields.io/badge/-npm-fff?&logo=npm)
+![Gulp](https://img.shields.io/badge/-gulp-fff?&logo=gulp)
 
 ![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux)
