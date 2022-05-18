@@ -1,6 +1,6 @@
 ### Hi, I'm <a href="https://www.ittid.io">ittid</a> 🖖💻
 
-I'm a Digital Product Designer and Front-End Developer, Student [@ibn-zohr University](https://www.uiz.ac.ma/) at Morocco, pursuing a Bachelor's degree in biology Science, who is passionate about Linux, PHP, and open source :octocat:. I enjoy working on large scale Product Design and Front End Projects
+I'm a  Front-End Developer at @owwco; Student at [@ibn-zohr University](https://www.uiz.ac.ma/), Passionate about JavaScript, Vue, and Open Source Project at GitHub. 🌞
 
 #### 👇 Find me in other areas of the web
 
