@@ -1,6 +1,6 @@
 ### Hi, I'm <a href="https://www.ittid.io">ittid</a> 🖖💻
 
-I'm a  Front-End Developer at @owwco; Student at [@ibn-zohr University](https://www.uiz.ac.ma/), Passionate about JavaScript, Vue, and Open Source Project at GitHub. 🌞
+I'm a Front-End Developer at @owwco; Student at [@ibn-zohr University](https://www.uiz.ac.ma/), Passionate about JavaScript, Vue, and Open Source Project at GitHub. 🌞
 
 #### 👇 Find me in other areas of the web
 
@@ -22,7 +22,6 @@ I'm a  Front-End Developer at @owwco; Student at [@ibn-zohr University](https://
 ![NPM](https://img.shields.io/badge/-npm-fff?&logo=npm)
 ![Gulp](https://img.shields.io/badge/-gulp-fff?&logo=gulp)
 
-![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP)
 ![Linux](https://img.shields.io/badge/-Linux-fff?&logo=Linux)
 
  ```javascript
