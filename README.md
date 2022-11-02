@@ -2,12 +2,6 @@
 
 I'm a JavaScript Developer at @owwco; Student at [@ibn-zohr University](https://www.uiz.ac.ma/), Passionate about JavaScript, Vue, React, TypeScript, and MERN. 🌞
 
-#### 👇 Find me in other areas of the web
-
-[![twitter badge](https://img.shields.io/badge/-@ittid-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ittidcode)
-[![facebook badge](https://img.shields.io/badge/-aHnaineAbdou-%230177B5?style=flat&logo=facebook&logoColor=white)](https://www.fb.com/aHnaineAbdou)
-[![Instagram badge](https://img.shields.io/badge/-@samadilii-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/samadilii/)
-
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![React](https://img.shields.io/badge/-React-fff?&logo=react&logoColor=blue)
