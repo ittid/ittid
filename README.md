@@ -1,5 +1,5 @@
-### Hi, I'm <a href="https://www.ittid.io">ittid</a> 🖖💻
-I'm a JavaScript Developer, Passionate about JavaScript, Vue, React. 🌞
+### Hi, I'm <a href="https://www.ittid.io">ittid</a> 🖖
+I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
