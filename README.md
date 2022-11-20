@@ -4,8 +4,10 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![React](https://img.shields.io/badge/-React-fff?&logo=react&logoColor=blue)
-![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=typeScript&logoColor=yellow)
 ![Vue.js](https://img.shields.io/badge/-VUE-fff?&logo=Vue.js&logoColor=green)
+![Jest](https://img.shields.io/badge/-Jest-fff?&logo=Jest&logoColor=purple)
+![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=typeScript&logoColor=yellow)
+
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=Css3&logoColor=blue)
 ![Pugjs](https://img.shields.io/badge/-Pugjs-fff?&logo=pug)
