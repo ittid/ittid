@@ -7,6 +7,7 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 ![Vue.js](https://img.shields.io/badge/-VUE-fff?&logo=Vue.js&logoColor=green)
 ![Jest](https://img.shields.io/badge/-Jest-fff?&logo=Jest&logoColor=purple)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=typeScript&logoColor=yellow)
+![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=purple)
 
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=Css3&logoColor=blue)
