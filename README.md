@@ -1,7 +1,7 @@
 ### Hi, I'm <a href="https://www.ittid.io">ittid</a> 🖖
 I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 
-### Languages:
+### Languages: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=Node.js&logoColor=green)
 ![React](https://img.shields.io/badge/-React-fff?&logo=react&logoColor=blue)
