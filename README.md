@@ -3,13 +3,13 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 
 ### Languages: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
-![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=Node.js&logoColor=green)
 ![React](https://img.shields.io/badge/-React-fff?&logo=react&logoColor=blue)
 ![Vue.js](https://img.shields.io/badge/-VUE-fff?&logo=Vue.js&logoColor=green)
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=purple)
 ![Jest](https://img.shields.io/badge/-Jest-fff?&logo=Jest&logoColor=purple)
 
 <!--
+![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=Node.js&logoColor=green)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=typeScript&logoColor=yellow)
 -->
 
