@@ -3,6 +3,7 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 
 ### Languages: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
+![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=typeScript&logoColor=blue)
 ![React](https://img.shields.io/badge/-React-fff?&logo=react&logoColor=blue)
 ![Vue.js](https://img.shields.io/badge/-VUE-fff?&logo=Vue.js&logoColor=green)
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=purple)
@@ -10,7 +11,6 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 
 <!--
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=Node.js&logoColor=green)
-![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=typeScript&logoColor=yellow)
 -->
 
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
