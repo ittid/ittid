@@ -15,6 +15,7 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=Css3&logoColor=blue)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-EDEDED?&logo=Bootstrap) 
 ![Pugjs](https://img.shields.io/badge/-Pugjs-fff?&logo=pug)
 ![SASS](https://img.shields.io/badge/-SASS-fff?&logo=SASS)
 ![Gulp](https://img.shields.io/badge/-gulp-fff?&logo=gulp)
