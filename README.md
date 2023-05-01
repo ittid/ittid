@@ -22,4 +22,3 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 ![Git](https://img.shields.io/badge/-GIT-fff?&logo=GIT) 
 ![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
 ![AJAX](https://img.shields.io/badge/-AJAX-EDEDED?&logo=AJAX) 
- 
