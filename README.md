@@ -1,12 +1,12 @@
-### Hi, I'm <a href="https://www.ittid.io">ittid</a> 🖖
+### Hi, I'm <a href="https://www.ittiddev.com">ittid</a> 🖖
 I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 
 ### Languages: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
-![React](https://img.shields.io/badge/-React-fff?&logo=react&logoColor=blue)
 ![Vue.js](https://img.shields.io/badge/-VUE-fff?&logo=Vue.js&logoColor=green)
-![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=typeScript&logoColor=blue)
+![React](https://img.shields.io/badge/-React-fff?&logo=react&logoColor=blue)
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=purple)
+![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=typeScript&logoColor=blue)
 ![Jest](https://img.shields.io/badge/-Jest-fff?&logo=Jest&logoColor=purple)
 
 <!--
