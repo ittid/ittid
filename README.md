@@ -11,6 +11,7 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 
 <!--
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=Node.js&logoColor=green)
+![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
 --> 
 
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
@@ -20,7 +21,6 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 ![SASS](https://img.shields.io/badge/-SASS-fff?&logo=SASS)
 ![Gulp](https://img.shields.io/badge/-gulp-fff?&logo=gulp)
 ![Git](https://img.shields.io/badge/-GIT-fff?&logo=GIT) 
-![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
 ![AJAX](https://img.shields.io/badge/-AJAX-EDEDED?&logo=AJAX)  
  
 ### Next Step: 
