@@ -9,7 +9,7 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=typeScript&logoColor=blue)
 ![Jest](https://img.shields.io/badge/-Jest-fff?&logo=Jest&logoColor=purple)
 
-<!--
+<!-- 
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=Node.js&logoColor=green)
 ![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
 --> 
