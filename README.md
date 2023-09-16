@@ -11,7 +11,7 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 
 <!--
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=Node.js&logoColor=green)
-![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
+![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue) 
 -->
 
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
