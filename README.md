@@ -11,7 +11,7 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=purple)
 ![Jest](https://img.shields.io/badge/-Jest-fff?&logo=Jest&logoColor=purple) 
  
-### Front-End Knowledge: 
+### Front-End Knowledge:  
 ![SASS](https://img.shields.io/badge/-SASS-fff?&logo=SASS)
 ![Pugjs](https://img.shields.io/badge/-Pugjs-fff?&logo=pug)
 ![Gulp](https://img.shields.io/badge/-gulp-fff?&logo=gulp)
