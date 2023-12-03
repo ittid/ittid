@@ -10,7 +10,8 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 ![Express.js](https://img.shields.io/badge/-Express.js-fff?&logo=Express&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-fff?&logo=Redux&logoColor=purple)
 ![Jest](https://img.shields.io/badge/-Jest-fff?&logo=Jest&logoColor=purple) 
- 
+![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB&logoColor=#409937)
+
 ### Front-End Knowledge:
 ![SASS](https://img.shields.io/badge/-SASS-fff?&logo=SASS)
 ![Pugjs](https://img.shields.io/badge/-Pugjs-fff?&logo=pug)
@@ -18,4 +19,4 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 ![Git](https://img.shields.io/badge/-GIT-fff?&logo=GIT) 
 
 ### Next Step:
-![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB&logoColor=#409937)
+##### Biuld Projects....
