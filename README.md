@@ -19,4 +19,4 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 ![Git](https://img.shields.io/badge/-GIT-fff?&logo=GIT) 
 
 ### Next Step:
-##### Biuld Projects....
+Biuld projects, node.js, vue.js, typescript
