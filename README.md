@@ -18,5 +18,5 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React.
 ![Gulp](https://img.shields.io/badge/-gulp-fff?&logo=gulp)
 ![Git](https://img.shields.io/badge/-GIT-fff?&logo=GIT) 
 
-### Next Step:
+### Next Step: 
 Biuld projects, node.js, vue.js, typescript
