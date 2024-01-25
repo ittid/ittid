@@ -18,7 +18,7 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React, Node.
 ![Gulp](https://img.shields.io/badge/-gulp-fff?&logo=gulp)
 ![Git](https://img.shields.io/badge/-GIT-fff?&logo=GIT) 
 
-### i can use:
+### used in my project:
 ![supabase](https://img.shields.io/badge/-supabase-fff?&logo=supabase)
 
 ### Next Step: 
