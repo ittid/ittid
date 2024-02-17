@@ -1,7 +1,7 @@
 ### Hi, I'm <a href="https://www.ittiddev.com">ittid</a> 🖖
 I'm a JavaScript Developer, Passionate about JavaScript, Vue, React, Node. 
 
-### JavasScript Knowledge: 
+### JavasScript Knowledge:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=typeScript&logoColor=blue) 
 ![React](https://img.shields.io/badge/-React-fff?&logo=react&logoColor=blue) 
