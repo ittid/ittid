@@ -18,8 +18,8 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React, Node.
 ![Gulp](https://img.shields.io/badge/-gulp-fff?&logo=gulp)
 ![Git](https://img.shields.io/badge/-GIT-fff?&logo=GIT) 
 
-### used in my project:
+### services used in my project:
 ![supabase](https://img.shields.io/badge/-supabase-fff?&logo=supabase)
 
-### Next Step:
-Biuld projects, node.js, vue.js, typescript
+### focusing:
+Biuld projects with vue.js, learn more about node.js, mastering react & typescript
