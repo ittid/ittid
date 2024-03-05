@@ -22,4 +22,4 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React, Node & more
 ![supabase](https://img.shields.io/badge/-supabase-fff?&logo=supabase)
 
 ### focusing:
-Biuld projects with vue.js, learn more about node.js, mastering react & typescript
+Biuld projects with vue.js, learn more about node.js, mastering react & typescript.
