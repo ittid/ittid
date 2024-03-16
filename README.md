@@ -1,5 +1,5 @@
 ### Hi, I'm <a href="http://www.ittiddev.vercel.app">ittid</a> 🖖
-I'm a JavaScript Developer, Passionate about JavaScript, Vue, React, Node & more...
+I'm a JavaScript Developer, Passionate about JavaScript, Vue, React, Node & more... 
 
 ### JavasScript Knowledge: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
