@@ -21,5 +21,5 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React, Node & more
 ### services used in my project:
 ![supabase](https://img.shields.io/badge/-supabase-fff?&logo=supabase)
 
-### focusing: 
+### focusing:
 Biuld projects with vue.js, learn more about node.js, mastering react & typescript.
