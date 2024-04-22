@@ -4,7 +4,7 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React, Node & more
 ### JavasScript Knowledge:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=typeScript&logoColor=blue) 
-![React](https://img.shields.io/badge/-React-fff?&logo=react&logoColor=blue) 
+![React](https://img.shields.io/badge/-React-fff?&logo=react&logoColor=blue)
 ![Vue.js](https://img.shields.io/badge/-VUE-fff?&logo=Vue.js&logoColor=green)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=Node.js&logoColor=#409937)
 ![Express.js](https://img.shields.io/badge/-Express.js-fff?&logo=Express&logoColor=black)
