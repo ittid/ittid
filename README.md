@@ -1,4 +1,4 @@
-### Hi, I'm <a href="http://www.ittiddev.vercel.app">ittid</a> 🖖
+### Hi, I'm <a href="http://www.ittiddev.vercel.app">ittid</a> 🧙‍♂️
 I'm a JavaScript Developer, Passionate about JavaScript, Vue, React, Node & more...
 
 ### JavasScript Knowledge: 
