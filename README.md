@@ -16,7 +16,7 @@ I'm a JavaScript Developer, Passionate about JavaScript, Vue, React, Node & more
 ![SASS](https://img.shields.io/badge/-SASS-fff?&logo=SASS)
 ![Pugjs](https://img.shields.io/badge/-Pugjs-fff?&logo=pug)
 ![Gulp](https://img.shields.io/badge/-gulp-fff?&logo=gulp)
-![Git](https://img.shields.io/badge/-GIT-fff?&logo=GIT)
+![Git](https://img.shields.io/badge/-GIT-fff?&logo=GIT) 
 
 ### services used in my project:
 ![supabase](https://img.shields.io/badge/-supabase-fff?&logo=supabase)
