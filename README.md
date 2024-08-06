@@ -1,6 +1,6 @@
 ### Hi, I'm <a href="http://www.ittiddev.vercel.app">ittid</a> 🧙‍♂️
-I'm a JavaScript Developer, Passionate about JavaScript, Vue, React, Node & more...
- 
+I'm a Software Engineer, passionate about writing code for the web.
+
 ### JavasScript Knowledge:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=typeScript&logoColor=blue) 
